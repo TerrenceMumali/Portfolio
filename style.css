@@ -8,7 +8,7 @@
 
 /* Body */
 body {
-  background-color: #1a1a1a;
+  background-color: #050404;
   color: #333;
   line-height: 1.6;
 }
@@ -29,7 +29,7 @@ header h1 {
 }
 
 header p {
-  margin-top: 10px;
+  margin-top: 15px;
   font-size: 1.1rem;
 }
 
@@ -82,7 +82,7 @@ a:active {
 /* Projects */
 .projects {
   background: #969696;
-  margin: 25px;
+  margin: auto;
   padding: 35px;
   border-radius: 15px;
   border-bottom: 5px solid #00adb5;
@@ -130,10 +130,12 @@ a:active {
 .contact {
   text-align: center;
   background: #969696;;
-  margin: 35px;
+  margin-top: 25px;
   border-radius: 15px;
   color: #fcf2f2;
   border-bottom: 5px solid #00adb5;
+  padding: 15px;
+  line-height: normal;
 }
 
 
